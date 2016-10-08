@@ -3,19 +3,19 @@ Imooc Science Project
 
 Node + Express
 
-## 一、后端：
+### 一、后端：
 
 数据库：mongoDB【对mongoDB快速建模的工具：mongoose】
 后端模板引擎：jade
 时间和日期的格式化：Moment.js
 
-## 二、前端：
+### 二、前端：
 
 jQuery
 Bootstrap
 Bower
 
-## 三、配置启动：
+### 三、配置启动：
 
 数据库启动：
 ```
